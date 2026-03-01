@@ -15,3 +15,4 @@ Computer science undergraduate focused on low-level programming.
 ## Currently Working On
 - Writing clearer, safer code
 - Improving program structure and readability
+- Discovering different high level languages
